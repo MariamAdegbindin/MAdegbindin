@@ -35,3 +35,9 @@ By combining **Data Analytics, Data Management, Software Systems, and Networking
 
 CONCLUSION
 This assessment provides a roadmap for my capstone project, outlining my strengths, weaknesses, and integration across multiple domains. Moving forward, I will refine my skills in **data interpretation and advanced analytics techniques** while leveraging my proficiency in database management and visualization tools. This will ensure my capstone project is comprehensive and impactful.
+
+REFERENCES & SUPPORTING EVIDENCE
+•	My GitHub Repository https://github.com/MariamAdegbindin/MAdegbindin.git Sample projects demonstrating my skills in Data Analytics.
+•	Course materials, tutorials, and hands-on projects used to develop my competencies.
+•	Academic references on data analytics methodologies and applications.
+
