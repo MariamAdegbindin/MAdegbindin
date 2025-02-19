@@ -15,6 +15,13 @@ While I have developed strong skills, there are areas where I need improvement:
 •	Advanced Data Mining Techniques: While I have used RapidMiner, I aim to gain deeper knowledge of complex machine learning algorithms.
 •	MongoDB & NoSQL Databases: I need more experience with non-relational databases for handling unstructured data.
 
+
+EXAMPLES OF WORK
+•	Developed a data visualization dashboard in Tableau to analyze customer churn trends.
+•	Created SQL queries for data extraction and transformation in a relational database.
+•	Conducted exploratory data analysis (EDA) using RapidMiner to uncover patterns in business datasets.
+
+
 STEPS FOR IMPROVEMENT
 •	Enrol in advanced data analytics courses** to strengthen my interpretation skills.
 •	Work on real-world projects** utilizing data mining techniques beyond RapidMiner.
