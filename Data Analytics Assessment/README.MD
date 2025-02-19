@@ -3,11 +3,12 @@ This document provides an assessment of my competency in Data Analytics, highlig
 
 COMPETENCIES & STRENGTHS
 Through my coursework, I have developed strong skills in the following areas:
-- Data Preparation: Proficient in handling and cleaning datasets for analysis.
-Data Visualization: Skilled in using tools such as Tableau, RapidMiner, and MS Excel to present data insights.
-RapidMiner & R: Confident in utilizing both RapidMiner and R for data mining and predictive analytics.
-SQL & Database Management: Competent in designing relational schemas and managing structured data.
-Business Intelligence: Experienced in interpreting data to support decision-making processes.
+•	Data Preparation: Proficient in handling and cleaning datasets for analysis.
+•	Data Visualization: Skilled in using tools such as Tableau, RapidMiner, and MS Excel to present data insights.
+•	RapidMiner & R: Confident in utilizing both RapidMiner and R for data mining and predictive analytics.
+•	SQL & Database Management: Competent in designing relational schemas and managing structured data.
+•	Business Intelligence: Experienced in interpreting data to support decision-making processes.
+
 
 WEAKNESSES AND AREAS FOR IMPROVEMENT
 While I have developed strong skills, there are areas where I need improvement:
@@ -23,7 +24,7 @@ EXAMPLES OF WORK
 
 
 STEPS FOR IMPROVEMENT
-•	Enrol in advanced data analytics courses** to strengthen my interpretation skills.
+•	Enrol in advanced data analytics courses to strengthen my interpretation skills.
 •	Work on real-world projects** utilizing data mining techniques beyond RapidMiner.
 •	Practice using MongoDB for storing and querying unstructured data.
 
